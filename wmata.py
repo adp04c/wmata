@@ -7,7 +7,7 @@ Created on Tue Jul 05 11:20:00 2016
 
 import requests 
 
-headers = {'api_key': 'rvu2mc6pfgzgygbsdcpa7s9z',}
+headers = {'api_key': 'INSERT_API_KEY',}
 API_URL = "https://api.wmata.com"
 
  
